@@ -1,0 +1,10 @@
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.csprojAssemblyReference.cache
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.Inicio.resources
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.Properties.Resources.resources
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.csproj.GenerateResource.cache
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.csproj.CoreCompileInputs.cache
+C:\Users\guima\Desktop\estudos\git\conexao_internet\bin\Debug\conexao_internet.exe.config
+C:\Users\guima\Desktop\estudos\git\conexao_internet\bin\Debug\conexao_internet.exe
+C:\Users\guima\Desktop\estudos\git\conexao_internet\bin\Debug\conexao_internet.pdb
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.exe
+C:\Users\guima\Desktop\estudos\git\conexao_internet\obj\Debug\conexao_internet.pdb
